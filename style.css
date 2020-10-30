@@ -1,0 +1,198 @@
+header
+{
+    float: left;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+#h_image
+{
+    width: 87%;
+    height: 530px;
+    margin: 50px 50px 0px 80px;
+    position: absolute;
+    z-index: -1;
+    float: left;  
+}
+#f_image{
+    width: 88.1%;
+    height: 200px;
+    margin: 96px 50px 0px 80px;
+    z-index: -1;
+    float: left;  
+}
+#logo
+{
+    width: 150px; 
+    height: 40px;
+    margin: 80px 0px 0px 200px;
+    z-index: 2;
+}
+#ulist1
+{
+    list-style: none;
+    font-family: 'calibri', sans-serif;
+    float: right;
+    margin: 90px 0px 0px 120px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+#ulist1 a
+{
+    color: white;
+    text-decoration: none;
+}
+#ulist1 li
+{
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#center_tag
+{
+    margin-left: 90px;
+    width: 100%;
+    height: auto;
+}
+#ulist2
+{
+    list-style: none;
+    font-family: 'calibri', sans-serif;
+    text-align: center;
+    margin: 130px 0px 0px 0px;
+    color: white;
+}
+#ulist2_li1
+{
+    font-size: 18px;
+    text-transform: uppercase;
+}
+#ulist2_li2
+{
+    font-size: 45px;
+    font-weight: bolder;
+    padding: 15px 0px 15px;
+    text-transform: uppercase;
+}
+#ulist2_li3_4
+{
+    font-size: 18px;
+    padding-bottom: 2px;
+}
+#ulist2_li5
+{
+    padding-top: 15px;
+}
+
+#ulist2_li5 button
+{
+    background-color: #6fbf6a;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-family: 'calibri', sans-serif;
+    font-weight: bolder;
+}
+
+#whatwedo
+{
+    width: 87.15%;
+    height: 70%;
+    float: left;
+    margin-top: 160px;
+    padding-top: 45px;
+    padding-left: 12px;
+    padding-bottom: 30px;
+    margin-left: 80px;
+    margin-bottom: 80px;
+    background-color: #EDEDED;
+    text-align: center;
+    font-family: 'calibri', sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+#whatwedo3
+{
+    width: 87.15%;
+    height: 70%;
+    float: left;
+    margin-top: 160px;
+    padding-top: 45px;
+    padding-left: 12px;
+    padding-bottom: 30px;
+    margin-left: 80px;
+    margin-bottom: 0px;
+    background-color: #EDEDED;
+    text-align: center;
+    font-family: 'calibri', sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+#whatwedo img
+{
+    width: 40px;
+    height: 15px;
+}
+#whatwedo3 img
+{
+    width: 40px;
+    height: 15px;
+}
+#element1
+{
+    /* border: 1px solid black; */
+    width: 20%;
+    height: 205px;
+    margin-left: 9px;
+    margin-top: -19px;
+    margin-bottom: 31px;
+    float: left;
+}
+#element1 ul
+{
+    list-style: none;
+}
+#element1 li
+{
+    margin-left: -29px;
+}
+#el_description
+{
+    font-weight: normal;
+    text-transform: none;
+    padding: 15px 20px 0px 20px;
+    font-size: 12.5px;
+    line-height: 20px;
+}
+#element1 img
+{
+    width: 220px;
+    height: 200px;
+    padding-left: 90px;
+    margin-top: 35px;
+}
+#hulist2_1{
+    position: absolute;
+    margin-top: 754px;
+    text-align: center;
+    list-style: none;
+    color: white;
+    margin-left: 400px;
+    margin-bottom: 50px;
+}
+#nav{
+    position: absolute;
+}
+#f2_image{
+   
+        width: 88.1%;
+        height: 200px;
+        margin: -68px 50px 0px 80px;
+        z-index: -1;
+        float: left;  
+    
+}
